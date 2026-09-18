@@ -28,7 +28,7 @@ function Footer() {
                     <ol className="mt-2 text-white/80" >
                         <li className="flex  items-center  gap-2"><FiMapPin /> Riyadh, Saudi Aarbia</li>
                         <li className="flex  items-center  gap-2"><FiPhone /> +966 543 747 294</li>
-                        <li className="flex items-center  gap-2 "> <FiMail /> iducoffeeshop@gmail.com</li>
+                        <li className="flex items-center  gap-2 "> <FiMail /> info:idiriisabdishuu@gmail.com</li>
                     </ol>
                 </div>
                 <div>
