@@ -50,7 +50,7 @@ function Contact() {
 
           {/* Full Name */}
           <label className="block font-semibold text-coffee-brown mb-2">
-             Name
+            Name
           </label>
 
           <input
@@ -64,9 +64,9 @@ function Contact() {
           />
           {/* Number */}
           <label className="block font-semibold text-coffee-brown mb-2">
-            Phone 
+            Phone
           </label>
-  
+
           <input
             className="pl-4 border border-coffee-orange w-full py-2.5
             focus:outline-none focus:ring-2 focus:ring-coffee-orange
@@ -91,9 +91,9 @@ function Contact() {
             placeholder="Your email here..."
           />
 
-          {/* Message */}
+          {/* Messages */}
           <label className="block font-semibold text-coffee-brown mb-2">
-            Message
+            Messages
           </label>
 
           <textarea
