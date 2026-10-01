@@ -32,7 +32,7 @@ function Cart() {
                 <div className='min-w-0'>
                     <h3 className='font-bold text-coffee-brown text-lg '>{item.name}</h3> 
                         <p className='text-sm mt-1 text-gray-500 '>{item.description}</p> 
-                        <p className='text-coffee-orange font-bold mt-2 text-lg'>{item.price.toFixed(2)}</p> 
+                        <p className='text-coffee-orange font-bold mt-2 text-lg'>${item.price.toFixed(2)}</p> 
                 </div>
                  
                 <div className='col-span-2 w-auto flex items-center justify-end mt-2 gap-3 bg-gray-200 p-1 rounded-lg '>
