@@ -93,7 +93,7 @@ function Contact() {
 
           {/* Messages */}
           <label className="block font-semibold text-coffee-brown mb-2">
-            Messages
+            Message
           </label>
 
           <textarea
